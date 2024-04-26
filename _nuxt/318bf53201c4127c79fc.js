@@ -57,8 +57,8 @@
                 l.nc && script.setAttribute("nonce", l.nc),
                 script.src = function(e) {
                     return l.p + "" + {
-                        2: "b94451d72c8d5d219157",
-                        3: "",
+                        2: "a84b71f5040faa8705cb",
+                        3: "b94451d72c8d5d219157",
                         4: "b46e75617207ae5013d0"
                     }[e] + ".js"
                 }(e);
